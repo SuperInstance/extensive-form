@@ -1,0 +1,13 @@
+[package]
+name = "extensive-form"
+version = "0.1.0"
+edition = "2021"
+description = "Extensive-form games with game trees, subgame perfect equilibrium, backward induction, and information sets"
+license = "MIT OR Apache-2.0"
+authors = ["SuperInstance"]
+repository = "https://github.com/SuperInstance/extensive-form"
+keywords = ["game-theory", "extensive-form", "game-tree", "backward-induction"]
+categories = ["mathematics", "science"]
+readme = "README.md"
+
+[dependencies]
